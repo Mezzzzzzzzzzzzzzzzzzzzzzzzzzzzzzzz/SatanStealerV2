@@ -1,6 +1,7 @@
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 <br>
+
 ![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/047aa572-2d92-42a6-bef7-ce3a636bc77a)
 
 
@@ -14,11 +15,13 @@
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 <br>
+
 ![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/5ed94c56-a4b2-4420-b804-e98bdadf9193)
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 <br>
+
 ![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/8b29a715-1622-402b-a0ac-4aa79f48be8c)
 
 
