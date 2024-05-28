@@ -1,21 +1,26 @@
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 <br>
-![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/3d5097d7-6e9b-449a-bf82-77725d78495f)
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-</p>
-<br>
-
-![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/14f2bb21-8eae-469d-ac92-6fabd7c63445)
+![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/df3c0d9f-fe2c-435e-8369-471defd97db3)
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 <br>
-![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/1b3070ed-33e8-4fec-85e5-767212ca39fa)
+
+![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/6ed877c1-f42e-472f-8ef1-27513a2cc110)
+
+
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 <br>
-![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/09cedd08-6496-4379-a225-3e665a6143df)
+![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/5ed94c56-a4b2-4420-b804-e98bdadf9193)
+
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+</p>
+<br>
+![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/8b29a715-1622-402b-a0ac-4aa79f48be8c)
+
+
 
                                                       🤖 Futures
 
@@ -73,7 +78,10 @@
 - And press covert .py .exe
 
  <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/dda920e5-ce8d-49d5-814b-96026ab83eb1)
+
+<br> <p align="center">
+    <img src="https://nitratine.net/posts/auto-py-to-exe/feature.png" alt="Empty interface">
+</p>
 
 
 
