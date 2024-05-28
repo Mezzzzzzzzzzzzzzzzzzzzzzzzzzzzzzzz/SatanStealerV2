@@ -1,7 +1,7 @@
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 <br>
-![image](https://github.com/HatGirl-zz/SatanStealerV2/assets/120135553/df3c0d9f-fe2c-435e-8369-471defd97db3)
+https://raw.githubusercontent.com/HatGirl-zz/SatanStealerV2/main/img/1.png
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
