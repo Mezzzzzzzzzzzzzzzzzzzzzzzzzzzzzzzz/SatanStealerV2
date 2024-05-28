@@ -63,7 +63,7 @@
 ### Prerequisites
   ⬇️ Setup (Manual)
  
-- First paste and save your webhook address instead of `"WEBHOOK HERE"` in Creal.py
+- First paste and save your webhook address instead of `"WEBHOOK HERE"` in main.py
 
 - If you use obfuscator it will be undetectable.
 
@@ -79,7 +79,7 @@
 
 <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="40%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/pyy.png"></img>
 
-- And press covert .py .exe
+- And press convert .py .exe
 
  <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
